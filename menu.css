@@ -1,0 +1,29 @@
+.tlk-menu__panel {
+    background-color: #564299 !important;
+}
+.tlk-menu__burger {
+    background-color: #564299 !important;
+}
+.tlk-menu__burger span {
+    background-color: #ffffff !important;
+}
+.tlk-menu__content {
+    background-color: #564299 !important;
+    color: #ffffff !important;
+}
+.tlk-menu__link {
+    color: #ffffff !important;
+}
+.tlk-menu__link_active {
+    background-color: #ffffff !important;
+    color: #564299 !important;
+}
+.tlk-menu__tick {
+    border-color: #ffffff !important;
+}
+.tlk-menu__back-btn {
+    background-color: #ffffff !important;
+}
+.tlk-menu__back-btn svg path {
+    stroke: #564299 !important;
+}
